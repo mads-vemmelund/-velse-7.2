@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AktieSkat.Konsol/1.0.0": {
+        "runtime": {
+          "AktieSkat.Konsol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AktieSkat.Konsol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

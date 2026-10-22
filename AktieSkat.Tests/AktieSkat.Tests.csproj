@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Include="..\AktieSkatBeregner.cs" Link="AktieSkatBeregner.cs" />
+  </ItemGroup>
+
 </Project>

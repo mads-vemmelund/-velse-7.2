@@ -1,0 +1,15 @@
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\bin\Debug\net10.0\AktieSkat.Konsol.exe
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\bin\Debug\net10.0\AktieSkat.Konsol.deps.json
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\bin\Debug\net10.0\AktieSkat.Konsol.runtimeconfig.json
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\bin\Debug\net10.0\AktieSkat.Konsol.dll
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\bin\Debug\net10.0\AktieSkat.Konsol.pdb
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.AssemblyInfoInputs.cache
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.AssemblyInfo.cs
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.csproj.CoreCompileInputs.cache
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.sourcelink.json
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.dll
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\refint\AktieSkat.Konsol.dll
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.pdb
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\AktieSkat.Konsol.genruntimeconfig.cache
+C:\Users\mvk\web\Øvelse 7.2-ny\AktieSkat.Konsol\obj\Debug\net10.0\ref\AktieSkat.Konsol.dll
