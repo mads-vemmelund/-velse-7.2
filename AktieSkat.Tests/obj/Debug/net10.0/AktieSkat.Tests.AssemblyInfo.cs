@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AktieSkat.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23e5aac94646d374ddc1aab58297dacc803e2804")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f27ce242f0fb98a6f13129e5066f05e5dde5d1d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AktieSkat.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AktieSkat.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
